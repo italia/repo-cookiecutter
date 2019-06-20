@@ -1,4 +1,4 @@
-:warning: Questo file è stato creato seguendo il  [README starter kit](https://github.com/italia/readme-starterkit) :warning:
+:warning: <removeme> Questo file è stato creato seguendo il  [README starter kit](https://github.com/italia/readme-starterkit) </removeme> :warning:
 
 [![License](https://img.shields.io/github/license/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
